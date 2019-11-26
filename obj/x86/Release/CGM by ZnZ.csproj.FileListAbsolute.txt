@@ -1,0 +1,16 @@
+E:\ZnZ\C#\CGM by ZnZ\bin\x86\Release\CGM by ZnZ.exe.config
+E:\ZnZ\C#\CGM by ZnZ\bin\x86\Release\CGM by ZnZ.exe
+E:\ZnZ\C#\CGM by ZnZ\bin\x86\Release\CGM by ZnZ.pdb
+E:\ZnZ\C#\CGM by ZnZ\obj\x86\Release\MainWindow.g.cs
+E:\ZnZ\C#\CGM by ZnZ\obj\x86\Release\App.g.cs
+E:\ZnZ\C#\CGM by ZnZ\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+E:\ZnZ\C#\CGM by ZnZ\obj\x86\Release\CGM by ZnZ_MarkupCompile.cache
+E:\ZnZ\C#\CGM by ZnZ\obj\x86\Release\CGM by ZnZ_MarkupCompile.lref
+E:\ZnZ\C#\CGM by ZnZ\obj\x86\Release\App.baml
+E:\ZnZ\C#\CGM by ZnZ\obj\x86\Release\MainWindow.baml
+E:\ZnZ\C#\CGM by ZnZ\obj\x86\Release\CGM by ZnZ.g.resources
+E:\ZnZ\C#\CGM by ZnZ\obj\x86\Release\CGM_by_ZnZ.Properties.Resources.resources
+E:\ZnZ\C#\CGM by ZnZ\obj\x86\Release\CGM by ZnZ.csproj.GenerateResource.Cache
+E:\ZnZ\C#\CGM by ZnZ\obj\x86\Release\CGM by ZnZ.csproj.CoreCompileInputs.cache
+E:\ZnZ\C#\CGM by ZnZ\obj\x86\Release\CGM by ZnZ.exe
+E:\ZnZ\C#\CGM by ZnZ\obj\x86\Release\CGM by ZnZ.pdb
